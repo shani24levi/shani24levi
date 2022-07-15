@@ -22,7 +22,8 @@ Self-learner, highly motivated and with passion for quality.
 <img align="left" style="padding-right:10px;" src="" width="50">
 <img align="left" style="padding-right:10px;" src="" width="50">
 
-<br>
+<br />
+
 ---
 
 - 🔭 I’m currently working on ...
