@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm Shani Levi
 #### Full Stack Devloper.
 
+![Yellow and Orange Simple Clean Digital Guess That  Zoomed In Picture Game Fun Presentation](https://user-images.githubusercontent.com/48565585/179170108-62c51896-ec05-4054-84bc-a1a398edfd25.jpg)
+
 Software Developer, Skilled with Front-End, Back-End web development.
 Self-learner, highly motivated and with passion for quality.
 
