@@ -7,6 +7,8 @@ Software Developer, Skilled with Front-End, Back-End web development.
 Self-learner, highly motivated and with passion for quality.
 
 ## Skills
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50">
+
 REACT / NODEJS / JS / TS / HTML / CSS / PYTHON
 
 ---
