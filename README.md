@@ -19,11 +19,9 @@ Self-learner, highly motivated and with passion for quality.
 <img align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50">
 <img align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50">
 <img align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50">
-<br />
-<br />
 
----
 
+## 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...everything 🤣
 - 👯 I’m looking to collaborate on ... on open source.
