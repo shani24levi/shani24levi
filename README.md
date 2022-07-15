@@ -7,9 +7,6 @@ Self-learner, highly motivated and with passion for quality.
 ## Skills
 REACT / NODEJS / JS / TS / HTML / CSS / PYTHON
 
-<br />
-<br />
-
 ---
 
 - 🔭 I’m currently working on ...
@@ -35,5 +32,4 @@ Here are some ideas to get you started:
 -->
 
 - 📫 How to reach me:
-<br />
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/shani24levi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shanilevi//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/shani.levi3/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://protfolio-shani-levi.netlify.app/)  
