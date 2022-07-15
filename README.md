@@ -8,6 +8,9 @@ Self-learner, highly motivated and with passion for quality.
 
 ## Skills
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50">
+<img src="" width="50">
+
 
 REACT / NODEJS / JS / TS / HTML / CSS / PYTHON
 
