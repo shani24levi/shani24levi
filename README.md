@@ -25,6 +25,9 @@ Self-learner, highly motivated and with passion for quality.
 
 ---
 
+<br />
+<br />
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...everything 🤣
 - 👯 I’m looking to collaborate on ... on open source.
